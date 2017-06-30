@@ -1,0 +1,13 @@
+# the following parameters are for opencvmotion model
+DynamicRoiWidth=200
+DynamicRoiHeight=200
+DynamicRoiShift=10
+ObjectMinWidth=50
+ObjectMinHeight=50
+BlurThreshold=120
+DisplayWidth=400
+# Direction: topleft, topright, center, right, left
+Direction=topleft
+# crop mode: none, auto, manual
+CropMode=auto
+EnableCropPreview=false
